@@ -1,6 +1,6 @@
 html {
 	background-color: SkyBlue;
- }
+}
 header {
   text-align: center;
   font-family: "Apple Chancery", cursive;
@@ -19,4 +19,46 @@ img {
    max-width:100%;
    height:auto;
    max-height:100%;
+}
+h1 {
+	text-align: center;
+	font-family: "Apple Chancery", cursive;
+	font-size: 4em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+}
+h2 {
+	text-align: center;
+	font-family: "Apple Chancery", cursive;
+	font-size: 3em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+}
+h3 {
+	text-align: center;
+	font-family: "Apple Chancery", cursive;
+	font-size: 2em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+}
+p {
+	text-align: center;
+	font-family: "Apple Chancery", cursive;
+	font-size: 1em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 200;
+	line-height: 1.5em;
+}
+ul li {
+	font-family: "Apple Chancery", cursive;
+	text-align: center;
+	list-style-type: none;
+	margin-left: -3em;
+	margin-right: -3em;
+	padding: 0;
+        overflow: hidden;
 }
