@@ -4,6 +4,10 @@ html {
 header {
   text-align: center;
   font-family: "Apple Chancery", cursive;
+  font-size: 5em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
 }
 body {
 	text-align: center;
