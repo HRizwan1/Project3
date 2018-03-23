@@ -12,6 +12,7 @@ body {
 	color: black;
 }
 img {
-	width:100%;
-	margin:0;
+   max-width:100%;
+   height:auto;
+   max-height:100%;
 }
