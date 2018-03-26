@@ -1,6 +1,14 @@
 html {
 	background-color: SkyBlue;
 }
+header {
+  text-align: center;
+  font-family: "Apple Chancery" cursive;
+  font-size: 2.25em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 800;
+}
 body {
 	text-align: center;
 	font-family: "Apple Chancery", cursive;
