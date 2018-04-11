@@ -58,6 +58,8 @@ ul li {
    	 list-style:none;
    	 margin:0;
    	 padding:0;
+	overflow: hidden;
+    	background-color: #333;
     	text-align:center;
 
 }
@@ -65,7 +67,10 @@ ul li {
 	display:inline;
 }
 #header li a {
+	display: block;
+    	color: red;
 	padding:10px;
+	text-decoration: none;
 }
 #header li a:hover {
     	background-color: #d87878;
