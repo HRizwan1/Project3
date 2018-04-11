@@ -53,22 +53,22 @@ ul li {
         overflow: hidden;
 }
 #header ul {
-   	list-style-type:none;
-        margin:0;
-   	padding:0;
+   	list-style-type: none;
+        margin: 0;
+   	padding: 0;
 	overflow: hidden;
     	background-color: #333;
-    	text-align:center;
+    	text-align: center;
 
 }
 #header li {
-	display:inline;
+	display: inline;
 }
 #header li a {
 	display: block;
     	color: red;
 	text-align: center;
-	padding:10px;
+	padding: 1em;
 	text-decoration: none;
 }
 #header li a:hover {
