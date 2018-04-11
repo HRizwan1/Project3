@@ -62,10 +62,10 @@ ul li {
 
 }
 #header li {
-	float: left;
+	display: inline-block;
 }
 #header li a {
-    	display: inline-block;
+	display: inline-block;
     	color: red;
     	text-align: center;
     	padding: 1em;
