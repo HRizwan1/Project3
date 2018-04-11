@@ -65,7 +65,7 @@ ul li {
 	display: inline-block;
 }
 #header li a {
-	display: block;
+	display: inline-block;
     	color: red;
 	text-align: center;
 	padding: 1em;
