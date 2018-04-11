@@ -62,7 +62,7 @@ ul li {
 
 }
 #header li {
-	display: inline;
+	display: inline-block;
 }
 #header li a {
 	display: block;
