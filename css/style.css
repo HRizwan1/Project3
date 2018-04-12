@@ -6,13 +6,11 @@ body {
 	font-family: "Apple Chancery", cursive;
 	text-align: center;
 	color: black;
-	float: left;
 }
 img {
-   	width:50%;
-	height:auto;
+   	max-width:100%;
+   	height:auto;
    	max-height:100%;
-	float: left;
 }
 h1 {
 	text-align: center;
