@@ -12,6 +12,7 @@ img {
    	height:auto;
    	max-height:100%;
 	float: left;
+	padding: 5px;
 }
 .side{
 	width:100%;
