@@ -8,10 +8,10 @@ body {
 	color: black;
 }
 img {
-	width: 50%;
-   	height:auto;
+	max-width: 100%;
+   	width:auto;
+	height:auto;
    	max-height:100%;
-	float: left;
 }
 h1 {
 	text-align: center;
